@@ -1,0 +1,46 @@
+# Redefined Theme for Oh My Zsh
+
+A clean and elegant theme for Oh My Zsh.
+
+## Installation
+
+### Easy Install
+
+You can install the theme by downloading the theme file directly into your Oh My Zsh custom themes directory.
+
+```bash
+# Using curl
+curl -o ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/user/omz-theme-redefined/main/redefined.zsh-theme
+
+# Or using wget
+wget -O ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/user/omz-theme-redefined/main/redefined.zsh-theme
+```
+
+### Manual Install (for developers)
+
+If you want to keep the repository for development or easy updates, you can clone it and symlink the theme file.
+
+1.  Clone this repository into your Oh My Zsh custom themes directory:
+
+    ```bash
+    git clone https://github.com/user/omz-theme-redefined.git ~/.oh-my-zsh/custom/themes/omz-theme-redefined
+    ```
+
+2.  Symlink the theme file to your Oh My Zsh custom themes directory:
+
+    ```bash
+    ln -s ~/.oh-my-zsh/custom/themes/omz-theme-redefined/redefined.zsh-theme ~/.oh-my-zsh/custom/themes/redefined.zsh-theme
+    ```
+
+## Usage
+
+1.  Set `ZSH_THEME="redefined"` in your `~/.zshrc` file.
+2.  Reload your shell:
+
+    ```bash
+    source ~/.zshrc
+    ```
+
+## Screenshots
+
+*(Coming soon)*
