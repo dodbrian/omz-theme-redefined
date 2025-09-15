@@ -65,3 +65,7 @@ If you want to keep the repository for development or easy updates, you can clon
 ## Screenshots
 
 *(Coming soon)*
+
+## Credits
+
+This theme is a fork of the `refined` theme, which is part of the official Oh My Zsh repository. The original `refined` theme was created by [mcornella](https://github.com/mcornella).
