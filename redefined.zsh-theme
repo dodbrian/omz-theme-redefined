@@ -2,21 +2,9 @@
 
 # ------------------------------------------------------------------------------
 #
-# Pure - A minimal and beautiful theme for oh-my-zsh
+# Redefined - A minimal and beautiful theme for oh-my-zsh
 #
-# Based on the custom Zsh-prompt of the same name by Sindre Sorhus. A huge
-# thanks goes out to him for designing the fantastic Pure prompt in the first
-# place! I'd also like to thank Julien Nicoulaud for his "nicoulaj" theme from
-# which I've borrowed both some ideas and some actual code. You can find out
-# more about both of these fantastic two people here:
-#
-# Sindre Sorhus
-#   GitHub:   https://github.com/sindresorhus
-#   Twitter:  https://twitter.com/sindresorhus
-#
-# Julien Nicoulaud
-#   GitHub:   https://github.com/nicoulaj
-#   Twitter:  https://twitter.com/nicoulaj
+# This is a fork of the `refined` theme.
 #
 # ------------------------------------------------------------------------------
 
