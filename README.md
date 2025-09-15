@@ -13,11 +13,13 @@ A clean and elegant theme for Oh My Zsh.
 
 You can install the theme by downloading the theme file directly into your Oh My Zsh custom themes directory.
 
+Using `curl`:
 ```bash
-# Using curl
 curl -o ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/user/omz-theme-redefined/main/redefined.zsh-theme
+```
 
-# Or using wget
+Or using `wget`:
+```bash
 wget -O ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/user/omz-theme-redefined/main/redefined.zsh-theme
 ```
 
@@ -39,9 +41,23 @@ If you want to keep the repository for development or easy updates, you can clon
 
 ## Usage
 
-1.  Set `ZSH_THEME="redefined"` in your `~/.zshrc` file.
-2.  Reload your shell:
+### With the `omz` command
 
+1.  Set the theme:
+    ```bash
+    omz theme set redefined
+    ```
+
+2.  Reload the shell:
+    ```bash
+    omz reload
+    ```
+
+### Manually
+
+1.  Set `ZSH_THEME="redefined"` in your `~/.zshrc` file.
+
+2.  Reload your shell:
     ```bash
     source ~/.zshrc
     ```
