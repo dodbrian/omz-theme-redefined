@@ -68,4 +68,4 @@ If you want to keep the repository for development or easy updates, you can clon
 
 ## Credits
 
-This theme is a fork of the `refined` theme, which is part of the official Oh My Zsh repository. The original `refined` theme was created by [mcornella](https://github.com/mcornella).
+This theme is based on the `refined` theme from Oh My Zsh, which was adapted by [mcornella](https://github.com/mcornella). The `refined` theme itself was a port of the `pure` theme, originally created by [sindresorhus](https://github.com/sindresorhus).
