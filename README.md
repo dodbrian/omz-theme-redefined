@@ -2,6 +2,11 @@
 
 A clean and elegant theme for Oh My Zsh.
 
+## Features
+
+*   The current git branch color is now light green for better readability.
+*   The elapsed time shown after the command finished is displayed in a human-readable format.
+
 ## Installation
 
 ### Easy Install
