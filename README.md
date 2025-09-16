@@ -15,12 +15,12 @@ You can install the theme by downloading the theme file directly into your Oh My
 
 Using `curl`:
 ```bash
-curl -o ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/user/omz-theme-redefined/main/redefined.zsh-theme
+curl -o ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/dodbrian/omz-theme-redefined/main/redefined.zsh-theme
 ```
 
 Or using `wget`:
 ```bash
-wget -O ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/user/omz-theme-redefined/main/redefined.zsh-theme
+wget -O ~/.oh-my-zsh/custom/themes/redefined.zsh-theme https://raw.githubusercontent.com/dodbrian/omz-theme-redefined/main/redefined.zsh-theme
 ```
 
 ### Manual Install (for developers)
@@ -30,7 +30,7 @@ If you want to keep the repository for development or easy updates, you can clon
 1.  Clone this repository into your Oh My Zsh custom themes directory:
 
     ```bash
-    git clone https://github.com/user/omz-theme-redefined.git ~/.oh-my-zsh/custom/themes/omz-theme-redefined
+    git clone https://github.com/dodbrian/omz-theme-redefined.git ~/.oh-my-zsh/custom/themes/omz-theme-redefined
     ```
 
 2.  Symlink the theme file to your Oh My Zsh custom themes directory:
